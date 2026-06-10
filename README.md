@@ -42,8 +42,8 @@ To prevent tests from leaking state, each spec file utilizes `resetLocalStorageA
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd qa-tests
+    git clone https://github.com/Michideveloper/e2e-fake-network-app.git
+    cd e2e-fake-network-app
     ```
 
 2.  **Install dependencies:**
