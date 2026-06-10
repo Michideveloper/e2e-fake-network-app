@@ -1,0 +1,24 @@
+{
+  "name": "waifu-ai-qa-automation",
+  "version": "1.0.0",
+  "description": "Suite independiente de pruebas E2E con Playwright para Waifu.ai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "e2e",
+    "testing",
+    "qa"
+  ],
+  "author": "Antigravity QA",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
