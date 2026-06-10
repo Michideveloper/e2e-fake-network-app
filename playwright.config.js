@@ -8,17 +8,10 @@ export default defineConfig({
   workers: process.env.CI ? 1 : undefined,
   reporter: 'html',
   use: {
-    // URL base de ejecución. Por defecto apunta al desarrollo local, pero
-    // puede ejecutarse contra producción (Vercel) usando la variable de entorno:
-    //  npx playwright test
     baseURL: process.env.BASE_URL || 'http://localhost:5173',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
-    video: 'retain-on-failure',
-    // Ralentiza las acciones en milisegundos (ej. 1000ms = 1 segundo)
-    launchOptions: {
-      slowMo: 1000,
-    },
+    video: 'retain-on-failure'
   },
   projects: [
     {
