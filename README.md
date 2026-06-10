@@ -1,3 +1,15 @@
+# Hi there, I'm José! 
+## Junior QA Automation Engineer | Playwright | CI/CD | Open to opportunities
+## Portfolio ->  https://github-qa.vercel.app/
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20|%20QA%20Automation&fontSize=40&animation=fadeIn" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 # 🎭 Waifu.ai - QA Automation Suite
 
 A professional end-to-end (E2E) automated testing suite designed for **Waifu.ai**, implemented using **Playwright** and the **Page Object Model (POM)** pattern.
