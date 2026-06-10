@@ -100,4 +100,22 @@ After test execution completes, Playwright generates a detailed HTML report incl
 *   Configurations: [playwright.config.js](file:///Users/Paparatz/Downloads/github%20profile/qa-tests/playwright.config.js)
 
 ---
-*Developed by QA Automation Engineering.*
+
+## Contact & Connect
+
+Let's discuss how I can contribute to your team's quality standards!
+
+<p align="left">
+  <a href="mailto:devjosegomez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/devjosegomez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Michideveloper">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/devjosegomez">
+    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
