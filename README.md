@@ -1,4 +1,4 @@
-# Hi there, I'm José! 
+# Hi there, I'm José!  
 ## Junior QA Automation Engineer | Playwright | CI/CD | Open to opportunities
 ## Portfolio ->  https://github-qa.vercel.app/
 
